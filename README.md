@@ -5,7 +5,7 @@
 - Live Search​
 - Fully responsive​
 
-Application using HTML, CSS, JavaScript, React as the frontend technologies. Integrated Strapi as the backend CMS, ensuring seamless data management and product catalog maintenance. ​
+Application using **HTML, CSS, JavaScript, React** as the frontend technologies. Integrated **Strapi** as the backend CMS, ensuring seamless data management and product catalog maintenance. ​
 
 ## Home Page :
 ![image](https://github.com/AnchalSharma20/E-Commerce/assets/113786234/62b91f8c-3110-4fbd-800d-b566e6511d8b)
